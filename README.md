@@ -1,6 +1,4 @@
-# JavaScript-BellyButton-Dashboard-Ch14
-Interactive Dashboard: Exploring the Belly Button Biodiversity Dataset using JavaScript
-# Belly Button Biodiversity Dashboard
+# BellyButton-Dashboard-Ch14
 
 ## Project Overview
 - The Belly Button Biodiversity Dashboard is an interactive web application designed to visualize microbial data collected from human belly buttons.
